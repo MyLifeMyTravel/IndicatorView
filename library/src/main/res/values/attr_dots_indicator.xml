@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DotIndicatorView">
+        <attr name="dotPosition" format="integer" />
+        <attr name="dotNum" format="integer" />
+        <attr name="dotSelectColor" format="color" />
+        <attr name="dotDefaultColor" format="color" />
+        <attr name="dotsMargin" format="integer" />
+        <attr name="dotSize" format="float" />
+    </declare-styleable>
+</resources>
